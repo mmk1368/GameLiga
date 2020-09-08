@@ -1,0 +1,9 @@
+C:\Users\poorya\Desktop\ArkaProject\GameLiga\GameLiga.Domain\bin\Release\netcoreapp3.1\GameLiga.Domain.deps.json
+C:\Users\poorya\Desktop\ArkaProject\GameLiga\GameLiga.Domain\bin\Release\netcoreapp3.1\GameLiga.Domain.dll
+C:\Users\poorya\Desktop\ArkaProject\GameLiga\GameLiga.Domain\bin\Release\netcoreapp3.1\GameLiga.Domain.pdb
+C:\Users\poorya\Desktop\ArkaProject\GameLiga\GameLiga.Domain\obj\Release\netcoreapp3.1\GameLiga.Domain.csprojAssemblyReference.cache
+C:\Users\poorya\Desktop\ArkaProject\GameLiga\GameLiga.Domain\obj\Release\netcoreapp3.1\GameLiga.Domain.AssemblyInfoInputs.cache
+C:\Users\poorya\Desktop\ArkaProject\GameLiga\GameLiga.Domain\obj\Release\netcoreapp3.1\GameLiga.Domain.AssemblyInfo.cs
+C:\Users\poorya\Desktop\ArkaProject\GameLiga\GameLiga.Domain\obj\Release\netcoreapp3.1\GameLiga.Domain.csproj.CoreCompileInputs.cache
+C:\Users\poorya\Desktop\ArkaProject\GameLiga\GameLiga.Domain\obj\Release\netcoreapp3.1\GameLiga.Domain.dll
+C:\Users\poorya\Desktop\ArkaProject\GameLiga\GameLiga.Domain\obj\Release\netcoreapp3.1\GameLiga.Domain.pdb

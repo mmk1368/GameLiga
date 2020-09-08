@@ -1,0 +1,15 @@
+C:\Users\poorya\Desktop\ArkaProject\GameLiga\GameLiga.Infrastructure.Data\bin\Release\netcoreapp3.1\GameLiga.Infrastructure.Data.deps.json
+C:\Users\poorya\Desktop\ArkaProject\GameLiga\GameLiga.Infrastructure.Data\bin\Release\netcoreapp3.1\GameLiga.Infrastructure.Data.runtimeconfig.json
+C:\Users\poorya\Desktop\ArkaProject\GameLiga\GameLiga.Infrastructure.Data\bin\Release\netcoreapp3.1\GameLiga.Infrastructure.Data.runtimeconfig.dev.json
+C:\Users\poorya\Desktop\ArkaProject\GameLiga\GameLiga.Infrastructure.Data\bin\Release\netcoreapp3.1\GameLiga.Infrastructure.Data.dll
+C:\Users\poorya\Desktop\ArkaProject\GameLiga\GameLiga.Infrastructure.Data\bin\Release\netcoreapp3.1\GameLiga.Infrastructure.Data.pdb
+C:\Users\poorya\Desktop\ArkaProject\GameLiga\GameLiga.Infrastructure.Data\bin\Release\netcoreapp3.1\GameLiga.Domain.dll
+C:\Users\poorya\Desktop\ArkaProject\GameLiga\GameLiga.Infrastructure.Data\bin\Release\netcoreapp3.1\GameLiga.Domain.pdb
+C:\Users\poorya\Desktop\ArkaProject\GameLiga\GameLiga.Infrastructure.Data\obj\Release\netcoreapp3.1\GameLiga.Infrastructure.Data.csprojAssemblyReference.cache
+C:\Users\poorya\Desktop\ArkaProject\GameLiga\GameLiga.Infrastructure.Data\obj\Release\netcoreapp3.1\GameLiga.Infrastructure.Data.AssemblyInfoInputs.cache
+C:\Users\poorya\Desktop\ArkaProject\GameLiga\GameLiga.Infrastructure.Data\obj\Release\netcoreapp3.1\GameLiga.Infrastructure.Data.AssemblyInfo.cs
+C:\Users\poorya\Desktop\ArkaProject\GameLiga\GameLiga.Infrastructure.Data\obj\Release\netcoreapp3.1\GameLiga.Infrastructure.Data.csproj.CoreCompileInputs.cache
+C:\Users\poorya\Desktop\ArkaProject\GameLiga\GameLiga.Infrastructure.Data\obj\Release\netcoreapp3.1\GameLiga.Infrastructure.Data.csproj.CopyComplete
+C:\Users\poorya\Desktop\ArkaProject\GameLiga\GameLiga.Infrastructure.Data\obj\Release\netcoreapp3.1\GameLiga.Infrastructure.Data.dll
+C:\Users\poorya\Desktop\ArkaProject\GameLiga\GameLiga.Infrastructure.Data\obj\Release\netcoreapp3.1\GameLiga.Infrastructure.Data.pdb
+C:\Users\poorya\Desktop\ArkaProject\GameLiga\GameLiga.Infrastructure.Data\obj\Release\netcoreapp3.1\GameLiga.Infrastructure.Data.genruntimeconfig.cache

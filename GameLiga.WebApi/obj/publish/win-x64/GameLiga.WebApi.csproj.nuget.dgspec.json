@@ -1,0 +1,413 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\poorya\\Desktop\\ArkaProject\\GameLiga\\GameLiga.WebApi\\GameLiga.WebApi.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\poorya\\Desktop\\ArkaProject\\GameLiga\\GameLiga.Core\\GameLiga.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\poorya\\Desktop\\ArkaProject\\GameLiga\\GameLiga.Core\\GameLiga.Core.csproj",
+        "projectName": "GameLiga.Core",
+        "projectPath": "C:\\Users\\poorya\\Desktop\\ArkaProject\\GameLiga\\GameLiga.Core\\GameLiga.Core.csproj",
+        "packagesPath": "C:\\Users\\poorya\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\poorya\\Desktop\\ArkaProject\\GameLiga\\GameLiga.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\poorya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\poorya\\Desktop\\ArkaProject\\GameLiga\\GameLiga.Domain\\GameLiga.Domain.csproj": {
+                "projectPath": "C:\\Users\\poorya\\Desktop\\ArkaProject\\GameLiga\\GameLiga.Domain\\GameLiga.Domain.csproj"
+              },
+              "C:\\Users\\poorya\\Desktop\\ArkaProject\\GameLiga\\GameLiga.Infrastructure.Data\\GameLiga.Infrastructure.Data.csproj": {
+                "projectPath": "C:\\Users\\poorya\\Desktop\\ArkaProject\\GameLiga\\GameLiga.Infrastructure.Data\\GameLiga.Infrastructure.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[8.6.2, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[8.6.2, )"
+            },
+            "JWT": {
+              "target": "Package",
+              "version": "[7.2.1, )"
+            },
+            "Microsoft.AspNetCore.Authentication": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            },
+            "Microsoft.AspNetCore.Cryptography.KeyDerivation": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            },
+            "RestSharp": {
+              "target": "Package",
+              "version": "[106.11.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\poorya\\Desktop\\ArkaProject\\GameLiga\\GameLiga.Domain\\GameLiga.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\poorya\\Desktop\\ArkaProject\\GameLiga\\GameLiga.Domain\\GameLiga.Domain.csproj",
+        "projectName": "GameLiga.Domain",
+        "projectPath": "C:\\Users\\poorya\\Desktop\\ArkaProject\\GameLiga\\GameLiga.Domain\\GameLiga.Domain.csproj",
+        "packagesPath": "C:\\Users\\poorya\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\poorya\\Desktop\\ArkaProject\\GameLiga\\GameLiga.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\poorya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\poorya\\Desktop\\ArkaProject\\GameLiga\\GameLiga.Infrastructure.Data\\GameLiga.Infrastructure.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\poorya\\Desktop\\ArkaProject\\GameLiga\\GameLiga.Infrastructure.Data\\GameLiga.Infrastructure.Data.csproj",
+        "projectName": "GameLiga.Infrastructure.Data",
+        "projectPath": "C:\\Users\\poorya\\Desktop\\ArkaProject\\GameLiga\\GameLiga.Infrastructure.Data\\GameLiga.Infrastructure.Data.csproj",
+        "packagesPath": "C:\\Users\\poorya\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\poorya\\Desktop\\ArkaProject\\GameLiga\\GameLiga.Infrastructure.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\poorya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\poorya\\Desktop\\ArkaProject\\GameLiga\\GameLiga.Domain\\GameLiga.Domain.csproj": {
+                "projectPath": "C:\\Users\\poorya\\Desktop\\ArkaProject\\GameLiga\\GameLiga.Domain\\GameLiga.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\poorya\\Desktop\\ArkaProject\\GameLiga\\GameLiga.Infrastructure.IOC\\GameLiga.Infrastructure.IOC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\poorya\\Desktop\\ArkaProject\\GameLiga\\GameLiga.Infrastructure.IOC\\GameLiga.Infrastructure.IOC.csproj",
+        "projectName": "GameLiga.Infrastructure.IOC",
+        "projectPath": "C:\\Users\\poorya\\Desktop\\ArkaProject\\GameLiga\\GameLiga.Infrastructure.IOC\\GameLiga.Infrastructure.IOC.csproj",
+        "packagesPath": "C:\\Users\\poorya\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\poorya\\Desktop\\ArkaProject\\GameLiga\\GameLiga.Infrastructure.IOC\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\poorya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\poorya\\Desktop\\ArkaProject\\GameLiga\\GameLiga.Core\\GameLiga.Core.csproj": {
+                "projectPath": "C:\\Users\\poorya\\Desktop\\ArkaProject\\GameLiga\\GameLiga.Core\\GameLiga.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Authorization": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\poorya\\Desktop\\ArkaProject\\GameLiga\\GameLiga.WebApi\\GameLiga.WebApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\poorya\\Desktop\\ArkaProject\\GameLiga\\GameLiga.WebApi\\GameLiga.WebApi.csproj",
+        "projectName": "GameLiga.WebApi",
+        "projectPath": "C:\\Users\\poorya\\Desktop\\ArkaProject\\GameLiga\\GameLiga.WebApi\\GameLiga.WebApi.csproj",
+        "packagesPath": "C:\\Users\\poorya\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\poorya\\Desktop\\ArkaProject\\GameLiga\\GameLiga.WebApi\\obj\\publish\\win-x64\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\poorya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\poorya\\Desktop\\ArkaProject\\GameLiga\\GameLiga.Core\\GameLiga.Core.csproj": {
+                "projectPath": "C:\\Users\\poorya\\Desktop\\ArkaProject\\GameLiga\\GameLiga.Core\\GameLiga.Core.csproj"
+              },
+              "C:\\Users\\poorya\\Desktop\\ArkaProject\\GameLiga\\GameLiga.Infrastructure.IOC\\GameLiga.Infrastructure.IOC.csproj": {
+                "projectPath": "C:\\Users\\poorya\\Desktop\\ArkaProject\\GameLiga\\GameLiga.Infrastructure.IOC\\GameLiga.Infrastructure.IOC.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Runtime.win-x64",
+              "version": "[3.1.6, 3.1.6]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Runtime.win-x64",
+              "version": "[3.1.6, 3.1.6]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Runtime.win-x64",
+              "version": "[3.1.6, 3.1.6]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,16 @@
+C:\Users\poorya\Desktop\ArkaProject\GameLiga\GameLiga.Infrastructure.IOC\bin\Release\netcoreapp3.1\GameLiga.Infrastructure.IOC.deps.json
+C:\Users\poorya\Desktop\ArkaProject\GameLiga\GameLiga.Infrastructure.IOC\bin\Release\netcoreapp3.1\GameLiga.Infrastructure.IOC.dll
+C:\Users\poorya\Desktop\ArkaProject\GameLiga\GameLiga.Infrastructure.IOC\bin\Release\netcoreapp3.1\GameLiga.Infrastructure.IOC.pdb
+C:\Users\poorya\Desktop\ArkaProject\GameLiga\GameLiga.Infrastructure.IOC\bin\Release\netcoreapp3.1\GameLiga.Core.dll
+C:\Users\poorya\Desktop\ArkaProject\GameLiga\GameLiga.Infrastructure.IOC\bin\Release\netcoreapp3.1\GameLiga.Domain.dll
+C:\Users\poorya\Desktop\ArkaProject\GameLiga\GameLiga.Infrastructure.IOC\bin\Release\netcoreapp3.1\GameLiga.Infrastructure.Data.dll
+C:\Users\poorya\Desktop\ArkaProject\GameLiga\GameLiga.Infrastructure.IOC\bin\Release\netcoreapp3.1\GameLiga.Core.pdb
+C:\Users\poorya\Desktop\ArkaProject\GameLiga\GameLiga.Infrastructure.IOC\bin\Release\netcoreapp3.1\GameLiga.Domain.pdb
+C:\Users\poorya\Desktop\ArkaProject\GameLiga\GameLiga.Infrastructure.IOC\bin\Release\netcoreapp3.1\GameLiga.Infrastructure.Data.pdb
+C:\Users\poorya\Desktop\ArkaProject\GameLiga\GameLiga.Infrastructure.IOC\obj\Release\netcoreapp3.1\GameLiga.Infrastructure.IOC.csprojAssemblyReference.cache
+C:\Users\poorya\Desktop\ArkaProject\GameLiga\GameLiga.Infrastructure.IOC\obj\Release\netcoreapp3.1\GameLiga.Infrastructure.IOC.AssemblyInfoInputs.cache
+C:\Users\poorya\Desktop\ArkaProject\GameLiga\GameLiga.Infrastructure.IOC\obj\Release\netcoreapp3.1\GameLiga.Infrastructure.IOC.AssemblyInfo.cs
+C:\Users\poorya\Desktop\ArkaProject\GameLiga\GameLiga.Infrastructure.IOC\obj\Release\netcoreapp3.1\GameLiga.Infrastructure.IOC.csproj.CoreCompileInputs.cache
+C:\Users\poorya\Desktop\ArkaProject\GameLiga\GameLiga.Infrastructure.IOC\obj\Release\netcoreapp3.1\GameLiga.Infrastructure.IOC.csproj.CopyComplete
+C:\Users\poorya\Desktop\ArkaProject\GameLiga\GameLiga.Infrastructure.IOC\obj\Release\netcoreapp3.1\GameLiga.Infrastructure.IOC.dll
+C:\Users\poorya\Desktop\ArkaProject\GameLiga\GameLiga.Infrastructure.IOC\obj\Release\netcoreapp3.1\GameLiga.Infrastructure.IOC.pdb
